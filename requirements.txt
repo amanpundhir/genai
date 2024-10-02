@@ -3,3 +3,6 @@ google-cloud-aiplatform
 pdfplumber
 google-generativeai
 Pillow
+python-dotenv
+youtube-transcript-api
+
